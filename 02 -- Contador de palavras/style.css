@@ -1,0 +1,26 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+button{
+    
+    border: none;
+    padding: 10px;
+    border-radius: 6px;
+    width: 130px;
+    background-color: darkslategrey;
+    color: white;
+    margin-top: 15px;
+    
+}
+
+p{
+    font-size: 20px;
+   margin: 5px;
+}

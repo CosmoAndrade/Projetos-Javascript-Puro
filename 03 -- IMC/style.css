@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(171, 199, 130);
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+input{
+    width: 250px;
+    padding: 10px;
+    font-size: 20px;
+    margin: 5px;
+    border-radius: 4px;
+}
+
+button{
+    padding: 10px;
+    width: 150px;
+}

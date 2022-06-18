@@ -1,0 +1,23 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 80%;
+}
+
+button{
+    width: 40px;
+    font-weight: bold;
+    font-size: 40px;
+    color: gold;
+}
